@@ -1,0 +1,33 @@
+[
+    {
+        "ProductName": "Double Caramel Frappuccino",
+        "Price": 200,
+        "Stock": 30
+        
+    },
+    {
+
+        "ProductName": "White Chocolate Mocha Frappuccino",
+        "Price": 150,
+        "Stock": 25
+    },
+    {
+
+        "ProductName": "Iced Cafe Latte",
+        "Price": 300,
+        "Stock": 15
+    },
+    {
+
+        "ProductName": "Iced Caramel Macchiato",
+        "Price": 250,
+        "Stock": 20
+    },
+    {
+
+        "ProductName": "Hot Caramel Macchiato",
+        "Price": 400,
+        "Stock": 60
+    }
+    
+]
